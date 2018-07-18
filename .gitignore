@@ -1,0 +1,26 @@
+node_modules
+npm-debug*
+
+# Lerna
+lerna-debug.log
+
+# Compiled files
+build/
+.idea
+.vscode
+
+# OS Files
+.DS_Store
+
+# Android/IntelliJ
+*.iml
+
+#babel-cache
+.babel-cache
+
+#Test Coverage
+coverage
+
+
+#Dump
+dump.rdb
